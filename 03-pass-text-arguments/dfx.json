@@ -1,0 +1,8 @@
+{
+  "canisters": {
+    "pass_arguments": {
+      "main": "src/main.mo",
+      "type": "motoko"
+    }
+  }
+}
