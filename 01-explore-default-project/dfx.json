@@ -1,0 +1,8 @@
+{
+  "canisters": {
+    "explore_default": {
+      "main": "src/main.mo",
+      "type": "motoko"
+    }
+  }
+}
