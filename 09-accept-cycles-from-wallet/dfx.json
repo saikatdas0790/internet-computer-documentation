@@ -1,0 +1,8 @@
+{
+  "canisters": {
+    "accept_cycles": {
+      "main": "src/main.mo",
+      "type": "motoko"
+    }
+  }
+}
