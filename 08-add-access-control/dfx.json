@@ -1,0 +1,8 @@
+{
+  "canisters": {
+    "access_control": {
+      "main": "src/main.mo",
+      "type": "motoko"
+    }
+  }
+}
