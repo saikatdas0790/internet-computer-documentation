@@ -1,0 +1,2 @@
+[workspace]
+members = ["src/my_rust_dapp"]

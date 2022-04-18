@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "canisters": {
+    "my_rust_dapp": {
+      "type": "custom",
+      "candid": "src/my_rust_dapp.did",
+      "wasm": "target/wasm32-unknown-unknown/debug/my_rust_dapp.wasm",
+      "build": "cargo build --target wasm32-unknown-unknown --package my_rust_dapp"
+    }
+  }
+}
